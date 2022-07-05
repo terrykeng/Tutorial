@@ -21,7 +21,7 @@ In this tutorial we would go through all the steps for creating a decentralized 
 If you have minimum knowledge in web development (i.e javascript, python e.t.c) and is new to the blockchain/algorand space this is the best and fun place to start.
 ## Introduction
 
-Lets start with some few questions to get proper footing
+Lets start with some few questions and answers to get proper footing
 
 
 - What is blockchain?
