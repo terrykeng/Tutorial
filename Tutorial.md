@@ -717,7 +717,7 @@ Verifying for generic connector
   Verifying when ALL participants are honest
   Verifying when NO participants are honest
 Checked 87 theorems; No failures!
-Creating 2022-07-05t10-49-23z-ix6j_reach-app-unique-number-game_run ... done
+Creating 2022-07-05t10-49-23z-ix6j_reach-app-the-price-is-right_run ... done
 
 > app
 > node --experimental-modules --unhandled-rejections=strict index.mjs
